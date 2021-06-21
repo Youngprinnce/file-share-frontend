@@ -1,7 +1,28 @@
 # InShare - easy file sharing
-Simple file sharing web app with drag and drop file upload
 
-![demo gif](https://github.com/ShivamJoker/GIF-Demos/raw/master/inshare%20demo.gif)
+This is a simple file sharing app using drag and drop friendly project I built using node js. Some key Aspects:
 
-### Backend NodeJS codes can be found on @codersgyan Github
-https://github.com/codersgyan/inshare-apis
+- Drag and Drop
+- Uploading of a file up to 100mb
+- Generate a link to download file
+- Send file using email
+
+Deployed live on https://youngprinnce.github.io/file-share-frontend/ . Check out!
+
+![](Capture.PNG)
+
+# Getting Started with File Share
+
+This project was bootstrapped with [Node js](https://nodejs.org/en/).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install` to install all dependencies
+
+### `node index.js` to run project
+
+Runs the app in the development mode.\
+Open [http://localhost:4000](http://localhost:3000) to view it in the browser.
+
